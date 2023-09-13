@@ -12,8 +12,8 @@ dependencies:
   - brotli-bin=1.1.0=hcfcfb64_0
   - brotlipy=0.7.0=py310h2bbff1b_1002
   - bzip2=1.0.8=he774522_0
-  - ca-certificates=2023.7.22=h56e8100_0
-  - certifi=2023.7.22=pyhd8ed1ab_0
+  - ca-certificates=2023.08.22=haa95532_0
+  - certifi=2023.7.22=py310haa95532_0
   - cffi=1.15.1=py310h2bbff1b_3
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - contourpy=1.1.0=py310h232114e_0
@@ -31,6 +31,7 @@ dependencies:
   - cuda-runtime=11.8.0=0
   - cycler=0.11.0=pyhd8ed1ab_0
   - decorator=5.1.1=pyhd8ed1ab_0
+  - docopt=0.6.2=py310haa95532_1
   - filelock=3.9.0=py310haa95532_0
   - fonttools=4.42.1=py310h8d17308_0
   - freetype=2.12.1=ha860e81_0
@@ -91,7 +92,7 @@ dependencies:
   - numba=0.57.1=py310h19bcfe9_0
   - numpy=1.24.3=py310h055cbcc_1
   - numpy-base=1.24.3=py310h65a83cf_1
-  - openssl=3.1.2=hcfcfb64_0
+  - openssl=3.0.10=h2bbff1b_2
   - packaging=23.1=pyhd8ed1ab_0
   - pillow=9.4.0=py310hd77b12b_0
   - pip=23.2.1=py310haa95532_0
